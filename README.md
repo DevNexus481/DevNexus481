@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 ## 🔹 Tech Stack & Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,tailwind,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode,scss" alt="Tech Stack" />
 </p>
 
 ### 🚀 Core Technologies  
