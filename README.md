@@ -1,6 +1,16 @@
 # 👋 Hi, I'm Abhishek Kumar!
 
+
+
 Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building dynamic, high-performance web applications. I specialize in creating smooth animations and immersive 3D experiences using **GSAP** and **React Three Fiber (React3.js)**.
+
+- <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+</p>
+
+
+
+
 
 ---
 
@@ -9,6 +19,8 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 - 🎨 Enthusiastic about **web animations** and **3D experiences** using **GSAP & React Three Fiber**.
 - 🌟 Passionate about crafting **efficient, scalable, and visually appealing applications**.
 - 📖 Always learning new technologies to enhance my development skills.
+
+
 
 ---
 
@@ -58,13 +70,17 @@ Here are some of my favorite projects:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevNexus481&theme=tokyonight&hide_border=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevNexus481&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=DevNexus481&show_icons=true&theme=tokyonight&hide_border=true" width="48%"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DevNexus481&show_icons=true&theme=radical&hide_border=true" width="48%">
 </p>
 <!-- GitHub Contributions Graph -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevNexus481&theme=react-dark&hide_border=true" width="95%"/>
 </p>
-
+ -->
+ <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevNexus481&theme=chartreuse-dark&hide_border=true" width="95%"/>
+</p>
 ---
 
 ## 📫 Connect With Me
